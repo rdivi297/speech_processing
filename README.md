@@ -4,3 +4,7 @@ The paper introduces a dataset tailored for training speech recognition models w
 
 ### Recorded Dataset 
 https://drive.google.com/drive/folders/1XLWZgzQ_Ud_nElQlGQbkZBtW27C8ej_c?usp=drive_link
+
+### Furthur changes
+Shall load the recordings into the dataset and fine-tune it. 
+fell short of time.
