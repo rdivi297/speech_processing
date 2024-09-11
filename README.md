@@ -1,4 +1,3 @@
 # Speech_processing
 ### Summary of the Paper:
-The paper presents a dataset created to train speech recognition models using a vocabulary of 20 simple words. Designed for applications in voice-controlled devices, it helps evaluate model's ability to recognize commands and differentiate them from similar-sounding non-trigger words, providing a lightweight yet effective resource for speech-based AI research.
-
+The paper introduces a dataset tailored for training speech recognition models with a vocabulary of 20 everyday words. Created with voice-controlled devices in mind, this dataset is perfect for testing how well models can pick up on specific commands and tell them apart from words that sound similar but aren't triggers. It's a practical and efficient tool for advancing research in speech-based AI.
